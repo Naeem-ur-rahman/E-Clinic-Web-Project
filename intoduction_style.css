@@ -18,7 +18,17 @@
     height:10vh ;
 }
 #textbox4{
-    height:10vh ;
+    height:13vh ;
+}
+#textbox5{
+    height:15vh;
+    width:40vw;
+    padding-top: 3vh;
+    display: flex;
+    justify-content: space-around;
+}
+.box{
+    border: 1px solid black;
 }
 .textdata{
     font-family: monospace;
@@ -44,6 +54,9 @@
 .blue{
     color: blue;
 }
+.lightblue{
+    color: rgb(46, 147, 180);
+}
 .button1{
     padding: 15px;
     padding-left: 32px;
@@ -58,7 +71,7 @@
     background-color: blue;
     color: white;
     border: none;
-    margin-left: 5%;
+    margin-right: 5%;
  }
 #getmobilebutton{
     background-color: white;
@@ -66,5 +79,59 @@
     border: none;
     margin-left: 5%;
 }
+#userimage{
+    height:8vh;
+    width:10vw;
+    display: flex;
+    padding: 15px;
+}
 
- 
+.circle_pic{
+    height: 9vh;
+    width: 10vh;
+    margin: -15px;
+    cursor: pointer;
+}
+#userpic1{
+    width:60px;
+}
+#userpic2{
+    width:60px;
+}
+#userpic3{
+    width:60px;
+    height: 60px;
+    border-radius: 200%;
+}
+#users{
+    height:8vh;
+    width:10vw;
+}
+.usertext{
+    height:4vh;
+    width:10vw;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(24, 23, 23);
+    font-family: sans-serif;
+    padding: 3px;
+}
+#heart{
+    width:30px;
+}
+#professional{
+    height:8vh;
+    width:15vw;
+}
+.professionaltext{
+    height:4vh;
+    width:15vw;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(24, 23, 23);
+    font-family: sans-serif;
+    padding: 3px;
+}
+.stars{
+    width:13px;
+}
