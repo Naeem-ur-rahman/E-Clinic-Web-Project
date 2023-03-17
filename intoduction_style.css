@@ -1,0 +1,70 @@
+
+#intro{
+    display: flex;
+}
+#text{
+    padding-left: 10%;
+    width: 45%;
+    display: flexbox;
+    align-items: flex-end;   
+}
+#textbox1{
+    height:30vh ;
+}
+#textbox2{
+    height:35vh ;
+}
+#textbox3{
+    height:10vh ;
+}
+#textbox4{
+    height:10vh ;
+}
+.textdata{
+    font-family: monospace;
+}
+#bigtext{
+    font-size: 50px;
+    font-weight: bolder;
+}
+#smalltext{
+    font-size: 15px;
+    color: grey;
+}
+#image_doctor{
+    width: 55%;
+    height: 110vh;
+    background-image: url('images/Doctor_background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0%;
+    background-position-x: 45%;
+    border-radius: 100px;
+}
+.blue{
+    color: blue;
+}
+.button1{
+    padding: 15px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: monospace;
+}
+#bookvisitbutton{
+    background-color: blue;
+    color: white;
+    border: none;
+    margin-left: 5%;
+ }
+#getmobilebutton{
+    background-color: white;
+    color: rgb(70, 91, 211);
+    border: none;
+    margin-left: 5%;
+}
+
+ 

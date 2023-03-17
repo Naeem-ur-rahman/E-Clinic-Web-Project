@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+}
+#nav{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+#logo{
+    width: 20%;
+    font-weight: bold;
+    font-size: 20px;
+    color: blue;
+    font-family: cursive;
+    padding-left: 10%;
+    padding-bottom: 0%;
+    cursor: pointer;
+}
+#menu{
+    padding-left: 18%;
+}
+#menulist{
+    display: flex;
+    padding-left: 25%;
+    padding: 3px;
+    justify-content: space-between;
+    font-size: 18px;
+    color: grey;
+    font-family: monospace;
+}
+.menuitem{
+    margin: 8px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+#login{
+    padding-left:15%;
+    display: flex;
+    justify-content: center;
+}
+.button{
+    padding: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: monospace;
+}
+
+
+#loginbutton{
+   background-color: aliceblue;
+   color: grey;
+   border: none;
+   
+}
+#signupbutton{
+   background-color: blue;
+   color: white;
+   border: none;
+}
