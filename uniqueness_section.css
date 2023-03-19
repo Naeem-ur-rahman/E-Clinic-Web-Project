@@ -1,0 +1,26 @@
+#uniqueness_section{
+    height: 56vh;
+}
+#unique_pannel1{
+    height: 15vh;
+}
+#unique_pannel2{
+    background-color: white;
+    height: 41vh;
+}
+#unique_uptext{
+    height: 20vh;
+    border:2px solid purple;
+}
+#unique_downtext{
+    height: 21vh;
+    border:2px solid purple;
+}
+.largetext{
+    font-size: 50px;
+    font-weight: bolder;
+}
+.shorttext{
+    font-size: 15px;
+    color: grey;
+}
