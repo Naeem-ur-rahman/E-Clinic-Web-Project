@@ -1,0 +1,66 @@
+#benifits_section{
+    height: 100vh;
+    display: flex;
+}
+#left_benifits_section{
+    width: 50vw;
+    padding-left: 10%;
+}
+#right_benifits_section{
+    width: 50vw;
+    display: flex;
+}
+#image_adjust{
+    width: 9vw;
+}
+#image_doctor2{
+    height: 90vh;
+    width: 35vw;
+    background-image: url('images/Doctor\ Standing.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom;
+    border-radius: 0px;
+}
+/* #hours_pannel{
+    background-color: rgb(255, 255, 255);
+    height: 8vh;
+    width:15vw;
+    border-radius: 10px;
+
+} */
+#b_section1{
+    height: 16vh;
+}
+#b_section2{
+    height: 30vh;
+}
+#b_section3{
+    height: 35vh;
+}
+#b_section4{
+    height: 19vh;
+}
+#smile{
+    width: 35px;
+}
+#benifitlist{
+    list-style-type: none; ;
+    font-size: 17px;
+    font-weight: bold;
+    color: black;
+    font-family: sans-serif;
+    padding: 5px;
+    padding-top: 20px;
+}
+.safety{
+    width: 15px;
+}
+.blist{
+    padding: 9px;
+}
+#Learnmorebutton{
+    background-color: blue;
+    color: white;
+    margin-top: 30px;
+}

@@ -10,17 +10,30 @@
 }
 #unique_uptext{
     height: 20vh;
-    border:2px solid purple;
+    text-align: center;
+    padding-top: 5vh;
 }
 #unique_downtext{
     height: 21vh;
-    border:2px solid purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 .largetext{
-    font-size: 50px;
+    font-size: 40px;
     font-weight: bolder;
+    padding: 5px;
 }
 .shorttext{
-    font-size: 15px;
+    font-size: 16px;
+    font-weight: bold;
     color: grey;
+    font-family: sans-serif;
+    padding: 5px;
+    padding-top: 10px;
+}
+.unique_downtext_sections{
+    height: 12vh;
+    width:42vh
 }
