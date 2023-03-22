@@ -1,0 +1,39 @@
+#virtualconsultantup{
+    height: 10vh;
+}
+#virtualconsultant{
+    height: 80vh;
+    display: flex;
+}
+#leftconsultant{
+    width:50%;
+    background-color: white;
+}
+#rightconsultant{
+    width:50%;
+    background-color: white;
+    padding-left: 4vw;
+    padding-right: 8vw;
+}
+#c_section1{
+    height: 5vh;
+}
+#c_section2{
+    height: 25vh;
+}
+#c_section3{
+    height: 20vh;
+}
+#c_section4{
+    height: 20vh;
+}
+#consultantpic{
+    height: 60vh;
+    margin-left: 10vw;
+    margin-top: 2vh;
+}
+#BookConsultantbutton{
+    background-color: blue;
+    color: white;
+    border: none;
+}
