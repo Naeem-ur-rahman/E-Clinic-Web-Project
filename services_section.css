@@ -1,0 +1,62 @@
+#services_section{
+    height: 137vh;
+}
+#upperservices{
+    height: 27vh;
+}
+#lowerservices{
+    height: 110vh;
+}
+#lowerservices1{
+    height: 55vh;
+    display: flex;
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+#lowerservices2{
+    margin-right: 5vw;
+    margin-left: 5vw;
+    height: 55vh;
+    display: flex;
+}
+#servicestext1{
+    text-align: center;
+    color: rgb(108, 108, 248);
+    padding-top:7vh ;
+}
+#servicestext2{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#servicestext3{
+    text-align: center;
+}
+.box1{
+    display: flex;
+    height: 48vh;
+    width:30vw;
+    margin: 4vh;
+    border-radius: 1rem;
+    background-color: white;
+    align-items: center;
+    flex-direction: column;
+}
+.servicelogo{
+    height: 45%;
+    padding-top: 7vh;
+    padding-bottom: 3vh;
+}
+.servicelargetext{
+    font-size: 25px;
+    font-weight: bolder;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.serviceshorttext{
+    font-size: 14px;
+    font-weight: bold;
+    color: grey;
+    font-family: sans-serif;
+    padding: 0px;
+    text-align: center;
+}
