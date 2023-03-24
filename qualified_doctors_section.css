@@ -30,6 +30,7 @@
     margin: 4vh;
     border-radius: 1rem;
     background-color:  rgb(242, 243, 243);
+    position: relative;
 }
 .profileupper{
     height: 28vh;
@@ -81,9 +82,12 @@
     border-radius: 0.4rem;
     cursor: pointer;
     font-family: monospace;
-    border-color: rgb(242, 243, 243) ;
     color: rgb(108, 108, 248);
     border-color: rgb(108, 108, 248);
+    background-color:  rgb(242, 243, 243);
+    position: absolute;
+    top: 46vh;
+    left: 1vw;
 }
 .Profile_image{
     height: 28vh;
